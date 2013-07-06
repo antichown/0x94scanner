@@ -1,4 +1,4 @@
-# 0x94 Scanner v2.0
+# 0x94 Scanner v2.1
 #Programý msdosta calistirin sonra calismiyor diye gelmeyin.
 #Taramak istemediginiz ozelligi config dosyasina grip True yazan yerleri False yapmaniz yeterlidir.
 #Python 2x surumde calistir
