@@ -2,11 +2,7 @@
 
 Program msdosta calistirin sonra calismiyor diye gelmeyin.
 
-Taramak istemediginiz ozelligi config dosyasina grip True yazan yerleri False yapmaniz yeterlidir.
-
-Python 2x surumde calistir
-
-config.cfg dosyasından ayarlarınızı yapın
+Taramak istemediginiz ozelligi config.cfg dosyasina grip True yazan yerleri False yapmaniz yeterlidir.
 
 Microsoft IIS tilde character acigini otomatik test eder.
 
@@ -82,7 +78,7 @@ sub domainleri brute eder
 
 birden fazla request istegini engelleyen siteleri icin request limit ozelligi vardir.
 
-asp.net ve java siteler i?in ignore parametre ozelligide vardir.
+asp.net ve java siteler icin ignore parametre ozelligide vardir.
 
 butun sonuclari rapor.txt ye kaydeder
 
