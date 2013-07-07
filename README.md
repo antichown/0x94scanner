@@ -1,5 +1,5 @@
-# 0x94 Scanner v2.1
-#Programý msdosta calistirin sonra calismiyor diye gelmeyin.
+0x94 Scanner v2.1
+Program msdosta calistirin sonra calismiyor diye gelmeyin.
 #Taramak istemediginiz ozelligi config dosyasina grip True yazan yerleri False yapmaniz yeterlidir.
 #Python 2x surumde calistir
 #Multi Thread  POST|GET (BLIND/TIME BASED/HEADER/SQL/XSS/LFI/CMD/RCE/XPATH/LDAP) INJECTION SCANNER
@@ -41,7 +41,7 @@
 #index off dizinleri tespit eder
 #sub domainleri brute eder
 #birden fazla request istegini engelleyen siteleri icin request limit ozelligi vardir.
-#asp.net ve java siteler için ignore parametre ozelligide vardir.
+#asp.net ve java siteler iï¿½in ignore parametre ozelligide vardir.
 #bulunan sql aciklarinin yollanan verilerin true ve false deger ciktilarini /debug klasorune kaydeder.
 #butun sonuclari rapor.txt ye kaydeder
 #sadece guvenlik testleri icin kullanin
