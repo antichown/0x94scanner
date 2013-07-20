@@ -14,9 +14,9 @@ tum linklerde HTTP Response Splitting dener.
 
 tum linklerde SSI(Server-Side Includes) acigi varmi yokmu test eder.
 
-tum linklerde get ve post LDAP injection dener.
+tum linklerde get,post ve blind LDAP injection dener.
 
-tum linklerde get ve post XPATH injection dener.
+tum linklerde get,post ve blind XPATH injection dener.
 
 tum linklerde get ve post Remote Command Execution acigini test eder.
 
