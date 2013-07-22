@@ -1,4 +1,4 @@
-0x94 Scanner v2.1
+0x94 Scanner v2.2
 
 Program msdosta calistirin sonra calismiyor diye gelmeyin.
 
