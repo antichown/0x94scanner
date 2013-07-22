@@ -80,6 +80,8 @@ birden fazla request istegini engelleyen siteleri icin request limit ozelligi va
 
 asp.net ve java siteler icin ignore parametre ozelligide vardir.
 
+frame ve javascript desteðide vardýr
+
 butun sonuclari rapor.txt ye kaydeder
 
 sadece guvenlik testleri icin kullanin
