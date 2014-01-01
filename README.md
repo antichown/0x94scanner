@@ -4,6 +4,18 @@ Program msdosta calistirin sonra calismiyor diye gelmeyin.
 
 Taramak istemediginiz ozelligi config.cfg dosyasina grip True yazan yerleri False yapmaniz yeterlidir.
 
+
+/***/
+Program artik güncellenmeyecektir geliþtirmeyi býraktým.
+Son eklenen özellikler
+-Aspx custom error analizi 
+-Aspx Elmah Error Log dosyasýný bulma
+-Aspx Trace Information dosyasýný bulma
+-Javascript desteði 
+-Frame desteði
+-Cold Fusion tespit ve güncel açýklar
+/**/
+
 Microsoft IIS tilde character acigini otomatik test eder.
 
 tum linklerin yedek dosyalarini kontrol eder.
