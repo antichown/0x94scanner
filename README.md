@@ -69,8 +69,10 @@ Cookie ayarı (Login olupta işlem yapabilir),<br>
 Proxy ayarı,<br>
 ve birden fazla Request engelleyen siteler için Request bekleme limiti ayarlanabilir<br>
 
-/*****/ Programda eklemediğimiz halen bir çok şey mevcuttur. 
-Onlarıda vakit buldukça ekliyoruz /*****/
+/*****/ 
+Her yazılımda olduğu gibi, bu yazılımda da yanılma payı olabilir.Fakat elimden geldiğince exploit ederek açıkları tespit etmeye çalıştım.<br>
+Programda eklemediğimiz halen bir çok şey mevcuttur. 
+Onlarıda vakit buldukça geliştiriyoruz /*****/
 
 <b>SADECE Güvenlik testleri için kullanın</b>
 
