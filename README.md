@@ -9,7 +9,6 @@ Programdaki başlıca özellikler :
 - Sunucunun Allow Header listesini alır<br>
 - Seo  yada 302 yonlendirmeli linklerin location URL lerini alır<br>
 - Sitedeki tüm linkleri 3 farklı crawl yöntemiyle tamamen alır (Örümcek misali sitedeki tüm linkleri gezer)<br>
-- Girdiği tüm linklerde yedek dosyaları analizi yapar<br>
 - Tüm sitede Expression Language Injection dener.<br>
 - Tüm sitede HTTP Response Splitting<br>
 - Tüm sitede SSI(Server-Side Includes) açıklarını dener<br>
@@ -23,7 +22,7 @@ Programdaki başlıca özellikler :
 - Tüm GET ve POST verilerinde Header injection dener<br>
 - Tüm GET ve POST verilerinde Cross-Site Scripting(XSS) dener(noscript olup olmadiğini belirtir)<br>
 - Tüm GET ve POST verilerinde Command injection dener<br>
-- Tüm Sitede LFI denemesi yapar.<br>
+- Tüm Sitede Local File Inclusion denemesi yapar.<br>
 - Http Trace Cross-Site Scripting açığını test eder<br>
 - Tüm linklerde Header Crlf injection dener<br>
 - Bulduğu site içi tüm linklerde login sayfalarini otomatik bulup basit capli brute force gerçekleştirir.<br>
