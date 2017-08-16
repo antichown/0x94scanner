@@ -56,7 +56,10 @@ Programdaki başlıca özellikler :
 - Git proje dosyalarını kontrol eder<br>
 - Her dizinde Okumaya açık olan htaccess dosyalarını bulur<br>
 ve daha bir çok özellik<br>
+
+
 <b>AYARLAR</b>
+
 Javascript destekler.<br>
 Asp.net ve Java siteler için ignoreparametre(taramaya dahil etme) özelliği ignoreparametre.txt den ayarlanabilir.<br>
 
