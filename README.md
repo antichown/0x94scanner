@@ -76,6 +76,7 @@ Yazılıma kendi bulma ve çalışma mantıklarımı sistematik şekilde entegre
 Onlarıda vakit buldukça geliştiriyoruz /*****/
 
 <b>SADECE Güvenlik testleri için kullanın</b>
+<b>Yazılımın oluşturacağı sorunlardan yazılımcı sorumlu değildir.</b>
 
 <b>TÜRK sitelerinde tarama yapmaz</b>
 
