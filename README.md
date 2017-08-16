@@ -2,7 +2,7 @@
 
 Program <b>MS-DOS ta çalışmaktadır <b>0x94 http://www.site.com yada https://www.site.com</b> şeklinde<br>
 
-Taramak istemediginiz ozelligi <b>config.cfg<b> dosyasında  <b>True</b> yazan yerleri <b>False</b> yaparak devre dışı bırakabilirsiniz
+Taramak istemediginiz ozelligi <b>config.cfg</b> dosyasında  <b>True</b> yazan yerleri <b>False</b> yaparak devre dışı bırakabilirsiniz
 
 Programdaki başlıca özellikler : 
 - Sunucu IP adresi ve kullanılan protocol bilgisini alir<br>
