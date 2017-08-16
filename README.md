@@ -1,6 +1,7 @@
 0x94 Scanner v2.4
 
-Program <b>MS-DOS</b> ta çalışmaktadır <b>0x94 http://www.site.com yada https://www.site.com</b> şeklinde<br>
+Program Windows ta <b>MS-DOS</b> ta çalışmaktadır <b>0x94 http://www.site.com yada https://www.site.com</b> şeklinde<br>
+Linux kullananlar içinde wine kullanabilirsiniz.
 
 Taramak istemediginiz ozelligi <b>config.cfg</b> dosyasında  <b>True</b> yazan yerleri <b>False</b> yaparak devre dışı bırakabilirsiniz
 
