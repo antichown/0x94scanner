@@ -70,8 +70,8 @@ Proxy ayarı,<br>
 ve birden fazla Request engelleyen siteler için Request bekleme limiti ayarlanabilir<br>
 
 /*****/ 
-Her yazılımda olduğu gibi, bu yazılımda da yanılma payı olabilir.Fakat elimden geldiğince exploit ederek açıkları tespit etmeye çalıştım.<br>
-Programda eklemediğimiz halen bir çok şey mevcuttur. 
+Her yazılımda olduğu gibi, bu yazılımda da yanılma payı olabilir.Fakat elimden geldiğince exploit ederek açıkları tespit etmeye çalıştım.
+Yazılıma kendi bulma ve çalışma mantıklarımı sistematik şekilde entegre ettim.Aynı zamanda kolaylaştırmak için 10 küsür aracın da çalışma mantığını entegre ettim.Program çok iyidir diyemem çünkü programda eklemediğimiz halen bir çok şey mevcuttur. 
 Onlarıda vakit buldukça geliştiriyoruz /*****/
 
 <b>SADECE Güvenlik testleri için kullanın</b>
