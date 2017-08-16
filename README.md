@@ -44,8 +44,8 @@ Programdaki başlıca özellikler :
 - Site içerisindeki tüm dizinlerde yedeklenmiş dosya yada bilgi dosyaları (rar,zip,tar,tar.gz,txt,sql) kontrolü yapar<br>
 - Site içerisinde dosya upload izni olan sayfaları bulur<br>
 - ShellShock açığını test eder<br>
-- Apache Strus açığını test eder<br>
-- SEF url sistemi olan sitelerde SEF url adreslerine göre Cross-Site Scripting(XSS) denemesi yapar.<br>
+- Apache Struts açığını test eder<br>
+- SEF url sistemi olan sitelerde SEF url adreslerine göre çoklu Cross-Site Scripting(XSS) denemesi yapar.<br>
 
 Javascript destekler.<br>
 Asp.net ve Java siteler için ignoreparametre(taramaya dahil etme) özelliği ignoreparametre.txt den ayarlanabilir.<br>
@@ -56,7 +56,8 @@ Cookie ayarı (Login olupta işlem yapabilir),<br>
 Proxy ayarı,<br>
 ve birden fazla Request engelleyen siteler için Request bekleme limiti ayarlanabilir<br>
 
-/*****/ Programda eklemediğimiz halen bir çok şey mevcuttur /****/
+/*****/ Programda eklemediğimiz halen bir çok şey mevcuttur. 
+Onlarıda vakit buldukça ekliyoruz /*****/
 
 <b>SADECE Güvenlik testleri için kullanın</b>
 
