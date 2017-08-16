@@ -22,6 +22,7 @@ Programdaki başlıca özellikler :
 - Tüm GET ve POST verilerinde Header injection dener<br>
 - Tüm GET ve POST verilerinde Cross-Site Scripting(XSS) dener(noscript olup olmadiğini belirtir)<br>
 - Tüm GET ve POST verilerinde Command injection dener<br>
+- Tüm GET ve POST verilerinde Frame injection dener<br>
 - Tüm Sitede Local File Inclusion denemesi yapar.<br>
 - Http Trace Cross-Site Scripting açığını test eder<br>
 - Tüm linklerde Header Crlf injection dener<br>
@@ -46,7 +47,16 @@ Programdaki başlıca özellikler :
 - ShellShock açığını test eder<br>
 - Apache Struts açığını test eder<br>
 - SEF url sistemi olan sitelerde SEF url adreslerine göre çoklu Cross-Site Scripting(XSS) denemesi yapar.<br>
-
+- SEF url sistemi olan sitelerde SEF url adreslerine göre çoklu SQL injection denemesi yapar.<br>
+- Wordpress sitelerin belli başlı açıklarını otomatik dener<br>
+- Akıllı sistem mevcuttur(Form Sayfa içinde user,username,pass,password vb id yada name olarak tanıtılmışsa otomatik olarak basit çaplı brute force gerçekleştirir)<br>
+- Tüm dizinlerde belli başlı dosyalar olan phpinfo,install,db vb dosyalarını arar<br>
+- WS-FTP log dosyasını kontrol eder<br>
+- Nodejs proje dosyalarını kontrol eder<br>
+- Git proje dosyalarını kontrol eder<br>
+- Her dizinde Okumaya açık olan htaccess dosyalarını bulur<br>
+ve daha bir çok özellik<br>
+<b>AYARLAR</b>
 Javascript destekler.<br>
 Asp.net ve Java siteler için ignoreparametre(taramaya dahil etme) özelliği ignoreparametre.txt den ayarlanabilir.<br>
 
