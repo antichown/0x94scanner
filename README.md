@@ -75,7 +75,7 @@ Her yazılımda olduğu gibi, bu yazılımda da yanılma payı olabilir.Fakat el
 Yazılıma kendi bulma ve çalışma mantıklarımı sistematik şekilde entegre ettim.Aynı zamanda kolaylaştırmak için 10 küsür aracın da çalışma mantığını entegre ettim.Program çok iyidir diyemem çünkü programda eklemediğimiz halen bir çok şey mevcuttur. 
 Onlarıda vakit buldukça geliştiriyoruz /*****/
 
-<b>SADECE Güvenlik testleri için kullanın</b>
+<b>SADECE Güvenlik testleri için kullanın</b><br>
 <b>Yazılımın oluşturacağı sorunlardan yazılımcı sorumlu değildir.</b>
 
 <b>TÜRK sitelerinde tarama yapmaz</b>
