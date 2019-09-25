@@ -80,6 +80,6 @@ Onlarıda vakit buldukça geliştiriyoruz /*****/
 
 <b>TÜRK sitelerinde tarama yapmaz</b>
 
-<a href="https://github.com/antichown/0x94scanner">0x94 Scanner</a>
+<a href="https://github.com/antichown/0x94TR/">0x94TR Scanner</a>
 
 <a href="https://twitter.com/0x94">Twitter 0x94</a>
