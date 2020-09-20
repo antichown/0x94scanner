@@ -1,4 +1,6 @@
-0x94 Scanner v2.4 - Yazılım tehlike arz ettiğinden silinmiştir.
+0x94 Scanner v2.4 - Yazılım burp eklentisiyle birlikte taşınmıştır
+
+https://github.com/antichown/0x94TR
 
 Program Windows ta <b>MS-DOS</b> ta çalışmaktadır <b>0x94 http://www.site.com yada https://www.site.com</b> şeklinde<br>
 Linux kullananlar içinde wine kullanabilirsiniz.
